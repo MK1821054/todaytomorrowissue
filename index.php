@@ -16,7 +16,7 @@ PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</b></h1></font>
 <p align="left">
 <font color="white">
 <font size="5">
-<img src="Week 3/image1.jpg", width="405", length="405", align="right"></img>
+<img src="image1.jpg", width="405", length="405", align="right"></img>
 <p align="center">
      Series of incompetent responses were executed by the government and their continuous
      deprioritization leads the state to rapidly increase the Coronavirus cases in the
@@ -34,7 +34,7 @@ PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</b></h1></font>
 <br>
 <br>
 <p align="center">
-<img src="Week 3/image2.jpg", width="480", length="360", align="left"></img>
+<img src="image2.jpg", width="480", length="360", align="left"></img>
      In the time when we should be saving lives, people are being killed either by incompetence
 	 or by the bullet. In a country already heavily afflicted with the COVID-19 pandemic, this
 	 senseless killings shows the inconsiderate of the Duterte administration and his failed
@@ -47,7 +47,7 @@ PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</b></h1></font>
 <p>
 <br>
 <br>
-<img src="Week 3/image3.jpg", width="330", length="330", align="right"></img>
+<img src="image3.jpg", width="330", length="330", align="right"></img>
 <p align="center">
      If our country’s government will be more solicitous and mindful hereafter, the<br>
 	 Philippines will be more stable in terms of environment and economic growth and will<br>
@@ -84,7 +84,7 @@ As another year begins, it is important to be grateful that with all the things 
 <p>
 <br>
 
-<img src="Week 3/anchor.png", width="720", length="720", align="left"></img>
+<img src="anchor.png", width="720", length="720", align="left"></img>
 <p align="center">
 The <b>anchor</b> is a <i>Symbol of hope and steadfastness</i>. In ancient times, the anchor was a <i>symbol of safety</i>. <b>Christ</b> is the <i>anchor of Christianity</i> and he preached hope to people. According to the Epistle to the Hebrews <i>“Hope... is an anchor of the soul, sure and firm” (Hebrews 6:19-20)</i>. The anchor holds Christians steady to the hope of eternal salvation. Everytime the anchor rises, a new voyage will begin. They will explore and enjoy another journey!
 <p>
